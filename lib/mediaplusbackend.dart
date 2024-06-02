@@ -56,6 +56,7 @@ part 'utils/enums/region_enum.dart';
 /*-------------------> providers <-------------------*/
 part 'data/providers/trendingMediaProviders/trending_media_provider.dart';
 part 'data/providers/trendingMediaProviders/trending_media_provider_impl.dart';
+part 'data/providers/searchMediaProviders/search_media_provider.dart';
 
 /*-------------------> repo <-------------------*/
 part 'repository/trending_media_repo.dart';
